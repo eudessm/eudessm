@@ -121,7 +121,7 @@
 
 
 <a href="https://github.com/pal-sandeep/learning-C-CPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-sandeep&repo=learning-C-CPP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eudessm&repo=learning-C-CPP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    -->
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -130,7 +130,7 @@
 
   <!-- ######################################################################################################## -->
   <br>
-  <a href="https://github.com/pal-sandeep" target="_blank">
+  <a href="https://github.com/eudessm" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/eudessm?label=Github%20followers&style=for-the-badge">
 </a>
   <br>
@@ -144,28 +144,6 @@
     <td><img src="https://profile-counter.glitch.me/eudessm/count.svg" alt=""/></td>
   </tr>
 </table>
- 
-
-
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 <p></p><p></p>
-
-
-### Olá! Eu sou Eudes Machado 👋😇
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eudes-siqueira-machado-5a9b83b0/) 
-
-![Eudes GitHub stats](https://github-readme-stats.vercel.app/api?username=eudessm&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eudessm)](https://github.com/eudessm/github-readme-stats)
-
-### Tecnologias que uso no meu dia-a-dia 
-<div style="display: inline_block"><br/>
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img align="center" alt="Java" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img align="center" alt="Java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="Java" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="center" alt="Java" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-</div><br/>
-
-Apaixonado por tecnologia, e por mudar as vidas das pessoas através dela.
