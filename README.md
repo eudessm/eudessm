@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg) --> 
- <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👨‍💻%Eudes%20Machado%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+ <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👨‍💻%Eudes%20Machado%20&fontSize=39&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h1 align="center"> (emachado)🙏🏻, Eu sou Eudes Machado!</h1> 
 <h3 align="center">Um analista apaixonado por tecnologia</h3>
@@ -22,13 +22,21 @@
 - 📄 Conheça minhas experiências [Resume](https://drive.google.com/file/d/1CCdKLr9XaEnEgaDkDCqfmHe_mku72qnH/view?usp=drive_link)
 
 <br>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<!-- ######################################################################################################### -->
-<div align="center">
-  
-## 🛠️ Stack com o qual trabalho
-  
-  <br/>
+    <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+    <!-- ######################################################################################################### -->
+    <div align="center">
+    
+    ## 🛠️ Stack com o qual trabalho
+<br/>
+<br>
+    <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+    </picture>
+<br />
+
 
 <table width="100%">
   <tr>
