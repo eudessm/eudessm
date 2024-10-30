@@ -1,11 +1,11 @@
 <!-- ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg) --> 
- <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👨‍💻%Sandeep%20Pal%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+ <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👨‍💻%Eudes%20Machado%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h1 align="center"> (emachado)🙏🏻, Eu sou Eudes Machado!</h1> 
 <h3 align="center">Um analista apaixonado por tecnologia</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif"> -->
 <img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-<!-- 
+
 
 - 🌱 Atualmente estou aprendendo **OutSystem**
 
