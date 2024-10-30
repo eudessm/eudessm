@@ -130,34 +130,23 @@
 </a>    -->
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-[![An image of @palsandeep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/palsandeep)](https://holopin.io/@palsandeep)
 
-<div align="center">
-  
-<!-- ![snake gif](https://github.com/pal-sandeep/pal-sandeep/blob/output/github-contribution-grid-snake.svg)-->
-
-</div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
   <!-- ######################################################################################################## -->
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%231B0EF7&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+India+IN+%5C%3E)](https://git.io/typing-svg)
   <br>
   <a href="https://github.com/pal-sandeep" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pal-sandeep?label=Github%20followers&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/eudessm?label=Github%20followers&style=for-the-badge">
 </a>
   <br>
   </div>
   <br>
 <!--   ############################### -->
-<!-- [![An image of @palsandeep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/palsandeep)](https://holopin.io/@palsandeep) -->
-<!--   ############################### -->
   
 <table align="center">
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/pal-sandeep/count.svg" alt=""/></td>
+    <td><img src="https://profile-counter.glitch.me/eudessm/count.svg" alt=""/></td>
   </tr>
 </table>
  
