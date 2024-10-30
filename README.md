@@ -90,16 +90,15 @@
 <!-- ########################################################################################################## -->
 
 <div align="center">
- <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SandeepPal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SandeepPal" /></a></p><br><br>
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a> 
-<!--   ######################################################################################################## -->
-<p>
-<a href="https://twitter.com/8sandeeppal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sandeep Pal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/8sandeeppal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeep Pal" height="30" width="40" /></a>
-<a href="https://instagram.com/iisandeepkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandeep Pal" height="30" width="40" /></a>
-</p>
-  </div>
+    <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a> 
+    <!--   ######################################################################################################## -->
+    <p>
+    <a href="https://twitter.com/eudessmachado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sandeep Pal" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/eudessmachado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeep Pal" height="30" width="40" /></a>
+    <a href="https://instagram.com/eudes.sm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandeep Pal" height="30" width="40" /></a>
+    </p>
+</div>
+
   <br>
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pal-sandeep&show_icons=true&locale=en&layout=compact" alt="sandeeppal" /></p>
