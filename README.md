@@ -120,8 +120,8 @@
 <a href="http://www.github.com/eudessm"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 
 
-<a href="https://github.com/pal-sandeep/learning-C-CPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eudessm&repo=learning-C-CPP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/eudessm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eudessm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    -->
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
