@@ -99,16 +99,6 @@
     </p>
 </div>
 
-  <br>
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&show_icons=true&locale=en" alt="sandeeppal" /></p>
-
-<p><img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&" alt="sandeeppal" />
-<img height="137px" width=50%
-  src="https://stackoverflow-card.vercel.app/?userID=18576721&theme=dracula"
-/>
-  </p> -->
 <!--  ######################################################################################################### -->
  <h2 align="center">
 📊 Minhas estatísticas do Github 📊
