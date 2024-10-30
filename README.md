@@ -7,18 +7,13 @@
 <img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🌱 Atualmente estou aprendendo **OutSystem**
-
-- 🤩 Estou procurando colaborar em projetos **DevOps Projects**
-
-- 💬 Pergunte-me sobre **Tecnologia**
-
-- 📫 Como entrar em contato comigo **eudesmare@gmail.com**
-
-- ⚡ Curiosidade:**Aprendiz para toda a vida**
-
-- ❓ Pergunte-me sobre qualquer coisa relacionada a tecnologias
-
+- ✨ Estudante da vida :)
+- 🌱 Atualmente estou aprendendo muitas coisas, acredito que cada dia é uma oportunidade de aprendizado.
+- 💁‍♂️ Estudante assíduo da Dio.me
+- 🏙  Mentor vitalício para Jovem aprendiz/Menores aprendiz 
+- ✍ Eu escrevo blogs técnicos.
+- ❤  Contribuindo para o código aberto.
+- 💻 Visite meu [Portfolio](https://eudessm.github.io/Portfolio/) para mais detalhes sobre mim.
 - 📄 Conheça minhas experiências [Resume](https://drive.google.com/file/d/1CCdKLr9XaEnEgaDkDCqfmHe_mku72qnH/view?usp=drive_link)
 
 <br>
@@ -27,16 +22,8 @@
     <div align="center">
 <br/>
 
-<br>
-    <h2 align="center">🛠️ Stack com o qual trabalho</h2> 
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-    </picture>
-<br />
-
-<h2 align="center">🛠️ Stack com o qual trabalho</h2> 
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -50,6 +37,19 @@
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
+  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
+  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+
+
 
 <!-- ########################################################################################################## -->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
